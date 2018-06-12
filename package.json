@@ -1,0 +1,16 @@
+{
+  "name": "react-redux-source-code",
+  "version": "1.0.0",
+  "description": "react-redux source-code tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-redux",
+    "source-code",
+    "tutorial"
+  ],
+  "author": "jason tian",
+  "license": "MIT"
+}
